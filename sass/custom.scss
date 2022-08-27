@@ -1,0 +1,50 @@
+// #002B4A #BECBD4 #0076C9 #314A5C #005B9C
+
+
+
+$font-family-sans-serif:  'Jost', sans-serif;
+
+$primary:#0076C9 ;
+$secondary: #002B4A;
+$light: #BDCAD2;
+$dark: #314A5C;
+
+
+
+
+
+
+
+
+
+
+
+.container{
+    background-color: #374978;
+}
+
+
+.idcard {
+
+    max-width: 1500px;
+    margin: 50px;
+    justify-content: center;   
+}
+
+.presentacion{
+    margin:10px;
+    padding: 10px;
+}
+
+.foto{
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar{
+    border:2px;
+    border-color: #BDCEF9;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
