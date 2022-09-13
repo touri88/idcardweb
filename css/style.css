@@ -20,3 +20,5 @@
     border:2px;
     border-color: #BDCEF9;
 }
+
+.navbar-nav {align-items: flex-end;} 

@@ -1,11 +1,9 @@
 @charset "UTF-8";
-.container {
-  background-color: #374978;
-}
+
 
 .idcard {
   max-width: 1500px;
-  margin: 50px;
+  
   justify-content: center;
 }
 
@@ -23,6 +21,11 @@
   border: 2px;
   border-color: #BDCEF9;
 }
+
+.navbar-nav {
+  align-items: flex-end;
+} 
+
 
 /*!
  * Bootstrap  v5.2.0 (https://getbootstrap.com/)
